@@ -13,4 +13,4 @@ This project combines traditional VLSI design with Machine Learning:
 - ML model (Random Forest) for power prediction
 
 ## Repo Structure
-- `ECE240_Final_Report.pdf` → Final report
+- `Final_Report.pdf` → Final report
