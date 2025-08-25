@@ -1,6 +1,6 @@
 # vlsi-ml
 Revolutionizing VLSI Circuit Design using Machine Learning and Traditional Techniques
-**Report:** [ECE240_Final_Report.pdf](./ECE240_Final_Report.pdf)
+**Report:** [FINAL_REPORT.pdf](./FINAL_REPORT.pdf)
 
 **Title:** Revolutionizing VLSI Circuit Design: Enhancing Efficiency through Machine Learning and Traditional Techniques  
 **Authors:** Saachi Jaiswal, Hajira Naim  
@@ -13,4 +13,4 @@ This project combines traditional VLSI design with Machine Learning:
 - ML model (Random Forest) for power prediction
 
 ## Repo Structure
-- `Final_Report.pdf` → Final report
+- `FINAL_REPORT.pdf` → Final report
