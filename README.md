@@ -1,6 +1,6 @@
 # vlsi-ml
 Revolutionizing VLSI Circuit Design using Machine Learning and Traditional Techniques
-**Report:** [FINAL_REPORT.pdf](./FINAL_REPORT.pdf)
+**Report:** [FINAL_ REPORT.pdf](./FINAL_REPORT.pdf)
 
 **Title:** Revolutionizing VLSI Circuit Design: Enhancing Efficiency through Machine Learning and Traditional Techniques  
 **Authors:** Saachi Jaiswal, Hajira Naim  
